@@ -556,6 +556,8 @@ header {
 
 #country-details-container {
   margin-top: 3rem;
+  display:flex;
+  flex-direction: column;
 }
 
 #country-detail-flag {
@@ -565,6 +567,8 @@ header {
 
 .country-detail-text {
   margin-top: 2rem;
+  /* display: flex;
+  flex-direction: column; */
 }
 
 .country-detail-text h2 {
@@ -577,6 +581,8 @@ header {
 
 .country-detail-text-container {
   margin-top: 1rem;
+  /* display: flex;
+  flex-direction: column; */
 }
 
 .country-detail-text-container .text-container1,
